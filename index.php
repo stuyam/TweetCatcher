@@ -1,8 +1,8 @@
 <?php
-	$dbHost	= 'localhost';			//	database host
-	$dbUser	= 'root';		//	database user
-	$dbPass	= 'YEGzxtKvWYTyLP3M';		//	database password
-	$dbName	= 'dsontweets'; 		//	database name
+	$dbHost	= 'XXXXX';			//	database host
+	$dbUser	= 'XXXXX';		//	database user
+	$dbPass	= 'XXXXX';		//	database password
+	$dbName	= 'XXXXX'; 		//	database name
 	$dbTable = 'tweets';
 
 	$connection = @mysql_connect($dbHost, $dbUser, $dbPass) or die("Couldn't connect.");

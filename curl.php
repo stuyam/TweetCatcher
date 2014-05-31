@@ -1,6 +1,6 @@
 <?php
 //Created by Stuart Yamartino on 10/31/12
-$db = new mysqli('localhost', 'root', 'YEGzxtKvWYTyLP3M', 'dsontweets');
+$db = new mysqli('XXXXX', 'XXXXX', 'XXXXX', 'XXXXX');
 if(mysqli_connect_errno())
 {
 	echo "Connection Failed: " . mysqli_connect_errno();
