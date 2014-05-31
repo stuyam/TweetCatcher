@@ -7,6 +7,7 @@ The export file spits out an excel spreadsheet of the Tweets.
 
 #### Here is an array of the politician handles on Twitter:
 
+<pre>
 $usernames = array(
     "1" => "whitehouse",
     "2" => "barackobama",
@@ -48,3 +49,4 @@ $usernames = array(
     "38" => "SenRonJohnson",
     "39" => "kellyAyotte"
 );
+</pre>
